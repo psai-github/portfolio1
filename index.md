@@ -39,7 +39,7 @@ Hi! My name is Pranav S
         </div>
     </a>
     <a href="{{site.baseurl}}/gamify/parallax" style="text-decoration: none;">
-        <div style="background-color: #3c1de8; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        <div style="background-color: #3c1de8; color: red; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
            Fish
         </div>
     </a>
