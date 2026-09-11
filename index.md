@@ -9,7 +9,7 @@ Hi! My name is Pranav S
 
 ### Development Environment
 
-> Coding starts with tools, explore these tools and procedures with a click.
+> Coding starts with amazing tools explore these tools and procedures with a click.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://opencodingsociety.com" style="text-decoration: none; display: inline-flex; align-items: center; gap: 8px; padding: 10px 14px; border: 1px solid #FA8072; border-radius: 6px; font-weight: 700;">
