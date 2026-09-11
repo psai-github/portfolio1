@@ -5,7 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is Pranav S
+Hello! My name is Pranav S
 
 ### Development Environment
 
