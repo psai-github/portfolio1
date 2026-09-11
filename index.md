@@ -30,7 +30,7 @@ Hi! My name is Pranav S
 
 ### Class Progress
 
-> Here is my progress through programming, click to see these online
+> Here is my amazing progress through programming, click to see these online
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
