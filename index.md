@@ -28,7 +28,7 @@ Hi! My name is Pranav S
 
 <br>
 
-### Class Progress
+### Updated Class Progress
 
 > Here is my amazing progress through programming, click to see these online
 
